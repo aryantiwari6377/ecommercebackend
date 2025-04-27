@@ -1947,77 +1947,77 @@ const productlist = [
     price: 450,
     description: 'Gentle and effective skincare combo including Garnier sunscreen and micellar water.',
     category: '40-off',
-    imageUrl: '/assets/beauty/40-1.jpg'
+    imageUrl: '/assets/40off/40-1.jpg'
   },
   {
     name: 'Derma E Pore Minimizing Scrub',
     price: 1200,
     description: 'Exfoliating scrub that visibly minimizes pores and improves skin texture.',
     category: '40-off',
-    imageUrl: '/assets/beauty/40-2.jpg'
+    imageUrl: '/assets/40off/40-2.jpg'
   },
   {
     name: 'Nike Air Jordan 1 High "Mocha"',
     price: 14000,
     description: 'Iconic and stylish high-top sneakers with mocha colorway from Nike Air Jordan.',
     category: '40-off',
-    imageUrl: '/assets/fashion/40-3.jpg'
+    imageUrl: '/assets/40off/40-3.jpg'
   },
   {
     name: 'Lenovo IdeaPad Laptop',
     price: 55000,
     description: 'Powerful and sleek Lenovo IdeaPad laptop suitable for work and entertainment.',
     category: '40-off',
-    imageUrl: '/assets/electronics/40-4.jpg'
+    imageUrl: '/assets/40off/40-4.jpg'
   },
   {
     name: 'Vaseline Body Lotion (Healthy Bright)',
     price: 280,
     description: 'Moisturizing lotion with vitamin-infused formula for brighter, hydrated skin.',
     category: '40-off',
-    imageUrl: '/assets/beauty/40-5.jpg'
+    imageUrl: '/assets/40off/40-5.jpg'
   },
   {
     name: 'Premium Android Tablet',
     price: 30000,
     description: 'High-performance Android tablet with premium design and features.',
     category: '40-off',
-    imageUrl: '/assets/electronics/40-6.jpg'
+    imageUrl: '/assets/40off/40-6.jpg'
   },
   {
     name: 'Samsung Galaxy Tab with S Pen',
     price: 45000,
     description: 'Versatile Samsung tablet with S Pen for productivity and creativity.',
     category: '50-off',
-    imageUrl: '/assets/electronics/50-1.jpg'
+    imageUrl: '/assets/50off/50-1.jpg'
   },
   {
     name: 'Chanel Coco Mademoiselle Perfume',
     price: 9500,
     description: 'Luxury fragrance with bold yet fresh notes, perfect for a sophisticated scent.',
     category: '50-off',
-    imageUrl: '/assets/beauty/50-2.jpg'
+    imageUrl: '/assets/50off/50-2.jpg'
   },
   {
     name: 'Adidas Americana Shoes',
     price: 7000,
     description: 'Classic sneakers from Adidas with a timeless Americana design.',
     category: '50-off',
-    imageUrl: '/assets/fashion/50-3.jpg'
+    imageUrl: '/assets/50off/50-3.jpg'
   },
   {
     name: 'Children\'s Outfit Set (Yellow T-shirt with Floral Pants)',
     price: 800,
     description: 'Adorable outfit set for kids featuring a yellow t-shirt and floral print pants.',
     category: '50-off',
-    imageUrl: '/assets/kidswear/50-4.jpg'
+    imageUrl: '/assets/50off/50-4.jpg'
   },
   {
     name: 'Grace Cole Body Lotion with Shea Butter',
     price: 1200,
     description: 'Rich body lotion infused with nourishing shea butter for smooth, soft skin.',
     category: '50-off',
-    imageUrl: '/assets/beauty/50-5.jpg'
+    imageUrl: '/assets/50off/50-5.jpg'
   },
 
   //60-
@@ -2026,36 +2026,36 @@ const productlist = [
     price: 599,
     description: 'Men\'s skincare set with coffee scrub face wash and toning serum for clearer skin.',
     category: '60-off',
-    imageUrl: '/assets/beauty/60-1.jpg'
+    imageUrl: '/assets/60off/60-1.jpg'
   },
   {
     name: 'Kalolia Lavender Shampoo/Body Wash',
     price: 450,
     description: 'Lavender-infused body care product in a convenient pump bottle.',
     category: '60-off',
-    imageUrl: '/assets/beauty/60-2.jpg'
+    imageUrl: '/assets/60off/60-2.jpg'
   },
   {
     name: 'Children\'s Striped Long Sleeve T-shirt with Sun Design',
     price: 799,
     description: 'White and blue striped kids\' top featuring a colorful sun graphic.',
     category: '60-off',
-    imageUrl: '/assets/kidswear/60-3.jpg'
+    imageUrl: '/assets/60off/60-3.jpg'
   },
   {
     name: 'M.S.C.17 Navy Blue Sweatshirt',
     price: 1200,
     description: 'Dark blue casual sweatshirt for everyday wear with minimal branding.',
     category: '60-off',
-    imageUrl: '/assets/fashion/60-4.jpg'
+    imageUrl: '/assets/60off/60-4.jpg'
   },
   {
     name: 'Campus/Action Black Slip-on Walking Shoes',
     price: 899,
     description: 'Comfortable casual black mesh slip-on sneakers ideal for walking.',
     category: '60-off',
-    imageUrl: '/assets/fashion/60-5.jpg'
-  }
+    imageUrl: '/assets/60off/60-5.jpg'
+  },
 
 ];
 
